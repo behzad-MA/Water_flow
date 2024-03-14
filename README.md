@@ -1,10 +1,11 @@
-Radial Flow Profile Analysis
+Radial Flow Profile Analysis\n
+
 This repository contains scripts for analyzing radial flow profiles of water molecules from molecular dynamics (MD) trajectory data. The analysis focuses on computing the radial, azimuthal, and axial components of water velocity within a channel.
 
-Introduction
+Introduction\n
 The provided scripts enable the analysis of water flow profiles in MD simulations conducted in the context of studying molecular transport phenomena in confined environments, such as nanopores or channels.
 
-Features
+Features\n
 Compute radial flow profiles of water molecules from trajectory data
 Analyze radial, azimuthal, and axial components of water velocity
 Apply periodic boundary conditions to account for periodicity in simulation boxes
